@@ -17,6 +17,7 @@ OR open the file in your IDE an install them through there.
 python main.py
 ```
 OR run it in your IDE.
+
 3. The program will begin running and prompt the user to enter their Instagram login information.
 4. The program then automatically accepts any follow requests that are pending on your account.
 5. If you're running it in a terminal press ctlr + c to stop the program.
