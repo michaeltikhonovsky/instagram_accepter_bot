@@ -26,11 +26,12 @@ python main.py
 
 ## Dependencies:
 This program relies on the following Python packages:
-colorama
-halo
-InstagramAPI
-requests
-replit
+1. colorama
+2. halo
+3. InstagramAPI
+4. requests
+5. replit
+
 These packages can be installed using pip, or with your IDE
 
 ## Disclaimer
