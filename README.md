@@ -9,11 +9,13 @@ This program is designed to automatically accept follow requests on your Instagr
 ```bas
 pip install PACKAGENAME
 ```
-3. OR open the file in your IDE an install them through there.
+OR open the file in your IDE an install them through there.
 ## Usage: 
 1. Open your terminal and navigate to the directory where you cloned the repository.
 2. Run the program by entering the following command in your terminal:
+```bash
 python main.py
+```
 OR run it in your IDE.
 3. The program will begin running and prompt the user to enter their Instagram login information.
 4. The program then automatically accepts any follow requests that are pending on your account.
